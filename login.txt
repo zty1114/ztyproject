@@ -2,4 +2,8 @@
 
 del(){
 log('减法运算')
+
+
+add(){
+consolg.log('新的方法')
 }
